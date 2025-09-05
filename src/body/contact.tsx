@@ -122,7 +122,7 @@ const Contact = () => {
                 </label>
                 <textarea
                   id="message"
-                  rows="4"
+                  rows={4}
                   className="text-white w-full px-4 py-3 bg-gray-900 border border-gray-700 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500"
                 ></textarea>
               </div>
