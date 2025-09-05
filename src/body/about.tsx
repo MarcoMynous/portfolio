@@ -35,11 +35,14 @@ const About = () => {
             </h4>
             <div className=" bg-gray-900 p-4 rounded-lg border-l-4 border-indigo-500">
               <h5 className="font-medium text-white">
-                Bachelor's in Computer Science
+                Bachelor's in Mathematics and Computer Science
               </h5>
               <p className="text-gray-400 text-sm pt-2">
                 Covenant University • 2023-2027
               </p>
+                <p className="text-gray-400 text-sm pt-2">
+                    CGPA: 4.80/5.00 (First Class Honors)
+                </p>
             </div>
             <div className="bg-gray-900 p-4 rounded-lg border-l-4 border-red-500">
               <h5 className="font-medium text-white">High School Diploma</h5>
